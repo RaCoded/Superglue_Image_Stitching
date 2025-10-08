@@ -23,7 +23,7 @@ The goal is to stitch two or more overlapping images into a seamless panorama. S
 python main.py
 
 ## Matching 
-![matching](https://github.com/linrl3/Image-Stitching-OpenCV/blob/master/images/matching.jpg)
+![matching](https://github.com/RaCoded/Superglue_Image_Stitching/blob/main/output/matching.jpg)
 
 ## Output image
 ![pano](https://github.com/linrl3/Image-Stitching-OpenCV/blob/master/images/panorama.jpg)
