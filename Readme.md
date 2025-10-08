@@ -1,7 +1,6 @@
 # Superglue Image Stitching
 
-This project is an automated image stitching pipeline using SuperGlue for feature matching and homography-based blending in Python. It is inspired by the original work Image-Stitching-OpenCV by linrl3 (), which used SIFT, KNN, and RANSAC. Here, the process has been fully automated to remove manual offsets and improve usability.
-
+This project is an automated image stitching pipeline using SuperGlue for feature matching and homography-based blending in Python. It is inspired by the original work Image-Stitching-OpenCV by linrl3 (https://github.com/linrl3/Image-Stitching-OpenCV), which used SIFT, KNN, and RANSAC. Here, the process has been fully automated to remove manual offsets and improve usability.
 
 The goal is to stitch two or more overlapping images into a seamless panorama. SuperGlue extracts and matches local features between images, computes the homography matrix for alignment, and blends the images using an automatic mask for smooth transitions
 
@@ -26,4 +25,7 @@ python main.py
 ![matching](https://github.com/RaCoded/Superglue_Image_Stitching/blob/main/output/matching.jpg)
 
 ## Output image
+![pano](https://github.com/RaCoded/Superglue_Image_Stitching/blob/main/panorama.jpg)
+
+## Output of cv2.Stitcher_PANORAMA (for comparison)
 ![pano](https://github.com/RaCoded/Superglue_Image_Stitching/blob/main/panorama.jpg)
