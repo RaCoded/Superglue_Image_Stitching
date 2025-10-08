@@ -26,4 +26,4 @@ python main.py
 ![matching](https://github.com/RaCoded/Superglue_Image_Stitching/blob/main/output/matching.jpg)
 
 ## Output image
-![pano](https://github.com/linrl3/Image-Stitching-OpenCV/blob/master/images/panorama.jpg)
+![pano](https://github.com/RaCoded/Superglue_Image_Stitching/blob/main/panorama.jpg)
