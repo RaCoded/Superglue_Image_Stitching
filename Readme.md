@@ -28,4 +28,4 @@ python main.py
 ![pano](https://github.com/RaCoded/Superglue_Image_Stitching/blob/main/panorama.jpg)
 
 ## Output of cv2.Stitcher_PANORAMA (for comparison)
-![pano]([https://github.com/RaCoded/Superglue_Image_Stitching/blob/main/panorama.jpg](https://github.com/RaCoded/Superglue_Image_Stitching/blob/main/panorama_opencv.jpg))
+![pano](https://github.com/RaCoded/Superglue_Image_Stitching/blob/main/panorama_opencv.jpg)
